@@ -22,7 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isomtrr&show_icons=true&locale=en&layout=compact" alt="isomtrr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isomtrr&show_icons=true&locale=en" alt="isomtrr" /></p>
-v
 
 <!---
 Isomtrr/Isomtrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
