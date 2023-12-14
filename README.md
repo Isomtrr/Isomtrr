@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **discord.py, python**
 
-- 📫 How to reach me **discord.gg/blitz / https://discord.com/users/852449921386676235**
+- 📫 How to reach me **discord.gg/tranime / https://discord.com/users/852449921386676235**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/blitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="blitz" height="30" width="40" /></a>
+<a href="https://discord.gg/tranime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="blitz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
