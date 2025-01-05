@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Nao bot](https://github.com/Isomtrr/Nao-public)
 
-- 🌱 I’m currently learning **tensorflow ,discord.py, c**
+- 🌱 I’m currently learning **tensorflow ,discord.py, reflex.py, go**
 
 - 💬 Ask me about **discord.py, python**
 
